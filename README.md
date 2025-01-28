@@ -20,4 +20,8 @@ Interview is $${\color{green}Interview}$$
 | Home Depot   | 01/17/2025 |                           |           |       |       | https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/userHome      |
 | Canonical    | 01/17/2025 | $${\color{red}Rejected}$$ |           |       |       | https://boards.greenhouse.io/canonicaljobs/jobs/6549805                 |
 | Datadog      | 01/23/2025 |                           |           |       |       | https://careers.datadoghq.com/detail/4732393/?gh_jid=4732393            |
+| FloQast      | 01/25/2025 | $${\color{red}Rejected}$$ |           |       |       |                                                                         |
+| Stepstone    | 01/28/2025 |                           |           |       |       | https://www.stepstonegroup.com/current-opportunities/?gh_jid=6575641    |
+| Ciracadence  | 01/28/2025 |                           |           |       |       |                                                                         |
+| Talkiatry    | 01/28/2025 |                           |           |       |       | https://jobs.lever.co/talkiatry/bb88fff8-ce22-4c1f-9f5e-47fb6f2f46b1?l  |
 
