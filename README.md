@@ -9,6 +9,7 @@ Interview is $${\color{green}Interview}$$
 | Company      | Date       | Response?                         | Interview | Offer | Link? |                                                                         |
 | ------------ | ---------- | --------------------------------- | --------- | ----- | ----- | ----------------------------------------------------------------------- |
 | Google       | 04/01/2024 | $${\color{red}Rejected}$$         |           |       |       |                                                                         |
+| Disney       | 01/12/2025 | $${\color{red}Rejected      }$$   |           |       |       |                                                                         |
 | Paypal       | 01/15/2025 | $${\color{red}Rejected}$$         |           |       |       |                                                                         |
 | Pattern Data | 01/15/2025 |                                   |           |       |       |                                                                         |
 | Orderful     | 01/15/2025 | $${\color{red}Rejected}$$         |           |       |       |                                                                         |
