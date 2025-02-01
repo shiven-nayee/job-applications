@@ -25,7 +25,6 @@ Interview is $${\color{green}Interview}$$
 | Stepstone    | 01/28/2025 |                                   |           |       |       | https://www.stepstonegroup.com/current-opportunities/?gh_jid=6575641    |
 | Ciracadence  | 01/28/2025 |                                   |           |       |       |                                                                         |
 | Talkiatry    | 01/28/2025 |                                   |           |       |       | https://jobs.lever.co/talkiatry/bb88fff8-ce22-4c1f-9f5e-47fb6f2f46b1?l  |
-| Yahoo        | 01/31/2025 |                                   |           |       |       |                                                                         |
+| Yahoo        | 01/31/2025 | $${\color{red}Rejected}$$         |           |       |       |                                                                         |
 | Capital One  | 01/31/2025 | $${\color{red}Deleted      }$$ 😂 |           |       |       |                                                                         |
-|              |            |                                   |           |       |       |                                                                         |
 
