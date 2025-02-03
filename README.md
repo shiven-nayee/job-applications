@@ -27,4 +27,6 @@ Interview is $${\color{green}Interview}$$
 | Talkiatry    | 01/28/2025 |                                   |           |       |       | https://jobs.lever.co/talkiatry/bb88fff8-ce22-4c1f-9f5e-47fb6f2f46b1?l  |
 | Yahoo        | 01/31/2025 | $${\color{red}Rejected}$$         |           |       |       |                                                                         |
 | Capital One  | 01/31/2025 | $${\color{red}Deleted      }$$ 😂 |           |       |       |                                                                         |
+| Pedno.io     | 02/02/2025 |                                   |           |       |       |                                                                         |
+| Yext         | 02/02/2025 |                                   |           |       |       |                                                                         |
 
