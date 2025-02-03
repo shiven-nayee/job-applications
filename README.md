@@ -30,4 +30,5 @@ Interview is $${\color{green}Interview}$$
 | Pedno.io     | 02/02/2025 |                                   |           |       |       |                                                                         |
 | Yext         | 02/02/2025 |                                   |           |       |       |                                                                         |
 | Focus.ai     | 02/03/2025 |                                   |           |       |       |                                                                         |
+| Pinterest    | 02/03/2025 |                                   |           |       |       |                                                                         |
 
