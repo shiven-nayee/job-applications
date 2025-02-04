@@ -31,4 +31,5 @@ Interview is $${\color{green}Interview}$$
 | Yext         | 02/02/2025 |                                   |           |       |       |                                                                         |
 | Focus.ai     | 02/03/2025 |                                   |           |       |       |                                                                         |
 | Pinterest    | 02/03/2025 |                                   |           |       |       |                                                                         |
+| Zip.co       | 02/04/2025 |                                   |           |       |       |                                                                         |
 
