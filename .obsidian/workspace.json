@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3cd45e54e47d4d25",
+        "id": "a17349e365e5fac3",
         "type": "tabs",
         "children": [
           {
-            "id": "7f6af9cd934149dc",
+            "id": "ade65acb6fc14194",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "88071146e5e8c2f2",
@@ -174,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f6af9cd934149dc",
+  "active": "ade65acb6fc14194",
   "lastOpenFiles": [
     "README.md",
     "conflict-files-obsidian-git.md"
